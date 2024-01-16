@@ -7,4 +7,4 @@ A MDI Form container
 <p>Add and config your button to "originalleftbtn" in "MainForm"</p>
 
 # ScreenShot 
-<img src="/assets/ScreenShot.png" alt="ScreenShot" width="500">
+<img src="/Assets/ScreenShot.png" alt="ScreenShot" width="500">
