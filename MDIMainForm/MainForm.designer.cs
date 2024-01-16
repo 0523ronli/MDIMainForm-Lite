@@ -65,7 +65,6 @@ namespace MDIMainForm
             ClientSize = new Size(1137, 711);
             Controls.Add(centerPenal);
             Controls.Add(foldablePanel);
-            Icon = (Icon)resources.GetObject("$this.Icon");
             KeyPreview = true;
             Margin = new Padding(4);
             Name = "MainForm";
